@@ -84,8 +84,6 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="THCT" tvg-name="THCT HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8",THCT
 https://live.canthotv.vn/live/tv_web/chunklist_w184695956.m3u8
 
-#EXTINF:-1 tvg-id="K+ SPORT2" group-title="💛| THE THAO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReefWQwPOU9Agfh3AKd4Rp0WyABmo09_eXfN7bZs0c&s", K+ SPORT2
-https://synguyen.net/wintv/cliptv/ksport2/mpd/manifest.mpd
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", World
 https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
