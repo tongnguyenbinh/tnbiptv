@@ -93,12 +93,11 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="Bongdahd" group-title="💓| Thể Thao " tvg-logo="https://genk.mediacdn.vn/k:thumb_w/640/2016/photo-1-1466679997312/choang-truoc-game-kiem-hiep-xuat-hien-ca-cau-thu-bong-da.png", Bóng Đá
-https://u8qshvrzitliv.moveon.one/83bd293a48f751d94ae6f52592130650/1716625289283/channel-1/channel-1.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 http://103.77.241.152:1234/stream/hbo/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
 http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://logowik.com/content/uploads/images/warner-bros.jpg", WB TV
+http://103.77.241.152:1234/stream/warnertv/stream.m3u8
