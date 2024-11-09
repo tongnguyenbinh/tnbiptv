@@ -1,0 +1,104 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=chaturbate.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 10884,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "ChaturbateProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=ChaturbateProvider_1726408138.cs3",
+        "name": "ChaturbateProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 10956,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "JavHDProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=JavHDProvider_1726886681.cs3",
+        "name": "JavHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 19854,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "Krx18Provider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=Krx18Provider_1726408138.cs3",
+        "name": "Krx18Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=missav.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 8748,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "MissAvProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=MissAvProvider_1725246713.cs3",
+        "name": "MissAvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 10426,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "Sextop1Provider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=Sextop1Provider_1726886681.cs3",
+        "name": "Sextop1Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 11365,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "VlxxProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=VlxxProvider_1726241142.cs3",
+        "name": "VlxxProvider"
+    }
+]
